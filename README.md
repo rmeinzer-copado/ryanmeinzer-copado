@@ -8,4 +8,4 @@ Have a projects for us? Let’s talk - [contact us](https://www.copado.com/conta
 
 ### Me 🤓
 
-I am a full stack engineer with excellence in product and sales. 
+I am a *full stack engineer* with excellence in product and sales. 
